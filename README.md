@@ -1,0 +1,2 @@
+# nextJs-assignemnt
+NextJs Assignment 
